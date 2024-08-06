@@ -26,23 +26,23 @@ Whoscall is a Django-based project designed to manage and identify contacts, inc
 
 Whoscall/
 │
-├── Api/
-│   ├── migrations/
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── models.py
-│   ├── serializers.py
-│   ├── tests.py
-│   ├── urls.py
-│   └── views.py
-│
-├── Whoscall/
-│   ├── __init__.py
-│   ├── asgi.py
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
-│
-├── manage.py
-└── db.sqlite3
+- ├── Api/
+- │   ├── migrations/
+- │   ├── __init__.py
+- │   ├── admin.py
+- │   ├── apps.py
+- │   ├── models.py
+- │   ├── serializers.py
+- │   ├── tests.py
+- │   ├── urls.py
+- │   └── views.py
+- │
+- ├── Whoscall/
+- │   ├── __init__.py
+- │   ├── asgi.py
+- │   ├── settings.py
+- │   ├── urls.py
+- │   └── wsgi.py
+- │
+- ├── manage.py
+- └── db.sqlite3
