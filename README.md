@@ -20,7 +20,7 @@ Whoscall is a Django-based project designed to manage and identify contacts, inc
    cd whoscall/Whoscall
 
 # Usage 
-. The application allows you to manage contacts and identify spam callers.
-. You can interact with the API endpoints to create, read, update, and delete contacts.
-. Use tools like Postman or CURL to test the API endpoints.
+- The application allows you to manage contacts and identify spam callers.
+- You can interact with the API endpoints to create, read, update, and delete contacts.
+- Use tools like Postman or CURL to test the API endpoints.
 
