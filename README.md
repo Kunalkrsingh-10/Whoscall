@@ -46,3 +46,5 @@ Whoscall/
 - │
 - ├── manage.py
 - └── db.sqlite3
+
+Save the above content in a file named `README.md` and place it in the root directory of your repository. When you push your repository to GitHub, GitHub will automatically render the `README.md` file as the main page of your repository. This will ensure your README is organized and easy to navigate.
