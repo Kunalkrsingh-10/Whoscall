@@ -19,7 +19,8 @@ Whoscall is a Django-based project designed to manage and identify contacts, inc
    git clone https://github.com/username/whoscall.git
    cd whoscall/Whoscall
 
-  1. ** Create a virtual environment:**
-   python3 -m venv env
-source env/bin/activate
+# Usage 
+. The application allows you to manage contacts and identify spam callers.
+. You can interact with the API endpoints to create, read, update, and delete contacts.
+. Use tools like Postman or CURL to test the API endpoints.
 
