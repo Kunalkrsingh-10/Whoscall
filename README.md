@@ -6,6 +6,7 @@ Whoscall is a Django-based and django rest framework based project designed to m
 
 - Python 3.x
 - Django
+- Django rest framework 
 - SQLite (default database)
 
 
