@@ -15,28 +15,7 @@ Whoscall is a Django-based and django rest framework based project designed to m
 - You can interact with the API endpoints to create, read, update, and delete contacts.
 - Use tools like Postman or CURL to test the API endpoints.
 
-Whoscall/
-│
-- ├── Api/
-- │   ├── migrations/
-- │   ├── __init__.py
-- │   ├── admin.py
-- │   ├── apps.py
-- │   ├── models.py
-- │   ├── serializers.py
-- │   ├── tests.py
-- │   ├── urls.py
-- │   └── views.py
-- │
-- ├── Whoscall/
-- │   ├── __init__.py
-- │   ├── asgi.py
-- │   ├── settings.py
-- │   ├── urls.py
-- │   └── wsgi.py
-- │
-- ├── manage.py
-- └── db.sqlite3
+
 1. **Clone the repository:**
 
    ```sh
