@@ -40,6 +40,6 @@ Whoscall/
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/username/whoscall.git
+   git clone https://github.com/Kunalkrsingh-10/whoscall.git
    cd whoscall/Whoscall
 
